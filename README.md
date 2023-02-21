@@ -1,6 +1,8 @@
 # rpi-pico-lcd
 Example project for raspberry pico with lcd 240px board
 
+![list.png](list.png)
+
 ## Start
 
 Press and hold the button on the Pico board, connect Pico to the USB port of the computer through the Micro USB cable, and then release the button.
