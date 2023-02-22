@@ -53,6 +53,8 @@ Specifications
 + [JetBrains/intellij-micropython: Plugin for MicroPython devices in PyCharm and IntelliJ](https://github.com/JetBrains/intellij-micropython)
 + [RPi-Distro](https://github.com/RPi-Distro)
 + [Raspberry Pi Learning Resources](https://github.com/orgs/raspberrypilearning/repositories?type=all)
++ [Project path | Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro)
+
 
 ## Document
 
