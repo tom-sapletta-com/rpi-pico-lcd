@@ -54,7 +54,7 @@ Specifications
 + [RPi-Distro](https://github.com/RPi-Distro)
 + [Raspberry Pi Learning Resources](https://github.com/orgs/raspberrypilearning/repositories?type=all)
 + [Project path | Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro)
-
++ [thonny/thonny: Python IDE for beginners](https://github.com/thonny/thonny/)
 
 ## Document
 
