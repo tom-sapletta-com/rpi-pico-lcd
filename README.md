@@ -51,7 +51,8 @@ Specifications
 
 + [Pico LCD 1.3 - Waveshare Wiki](https://www.waveshare.com/wiki/Pico-LCD-1.3)
 + [JetBrains/intellij-micropython: Plugin for MicroPython devices in PyCharm and IntelliJ](https://github.com/JetBrains/intellij-micropython)
-
++ [RPi-Distro](https://github.com/RPi-Distro)
++ [Raspberry Pi Learning Resources](https://github.com/orgs/raspberrypilearning/repositories?type=all)
 
 ## Document
 
