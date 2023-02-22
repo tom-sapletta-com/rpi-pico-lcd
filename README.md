@@ -55,6 +55,8 @@ Specifications
 + [Raspberry Pi Learning Resources](https://github.com/orgs/raspberrypilearning/repositories?type=all)
 + [Project path | Introduction to the Raspberry Pi Pico](https://projects.raspberrypi.org/en/pathways/pico-intro)
 + [thonny/thonny: Python IDE for beginners](https://github.com/thonny/thonny/)
++ [Pico LCD 1.3 - Waveshare Wiki](https://www.waveshare.com/wiki/Pico-LCD-1.3)
+
 
 ## Document
 
